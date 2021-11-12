@@ -1,3 +1,5 @@
+//This file contains class that we use to fetch data from pexel
+
 import 'dart:convert';
 import 'dart:io';
 
@@ -17,6 +19,7 @@ class PhotoService {
             apiKey,
       },
     );
+    
     String content = response.body;
     List collection = json.decode(content)['photos'];
     //print(collection.runtimeType);

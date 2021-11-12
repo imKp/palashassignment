@@ -1,5 +1,6 @@
-//Drawn on page 2
-//This shows the comment if any added or no comment
+/*Drawn on page 2
+This shows the comment if any added or no comment
+*/
 import 'package:flutter/material.dart';
 import 'package:palashassignment/model/photos.dart';
 import 'package:palashassignment/services/db_service.dart';

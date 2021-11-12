@@ -1,3 +1,8 @@
+//This is a input text bar
+//This text bar is required in two page
+//On the first page it is used to query search
+//On the third page it is used to enter comment
+
 import 'package:flutter/material.dart';
 
 class SearchBarText extends StatelessWidget {

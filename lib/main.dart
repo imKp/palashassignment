@@ -1,3 +1,11 @@
+/*
+The app is three screen app, and the name are mentioned in the order that user may experience.
+1. FirstPage(Class), first_page.dart(file),
+2. StreamPage(class), stream_page.dart(file),
+3. DetailImageView(class), detail_image_view.dart(file), 
+*/
+
+
 //This is the main file
 //Package built within flutter
 import 'package:flutter/material.dart';

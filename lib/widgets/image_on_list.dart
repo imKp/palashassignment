@@ -1,4 +1,8 @@
-//Drawn on page two
+/* 
+Page two is a list that is like a feed.
+The feed has a widget, and this is its implementation
+This compromises of two section a photo and a comment section
+*/
 import 'package:flutter/material.dart';
 import 'package:palashassignment/model/photos.dart';
 import 'package:palashassignment/widgets/comment.dart';

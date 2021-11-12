@@ -1,3 +1,8 @@
+/*
+  This is the second page of the app.
+  In this page the quried image is shown as the list of images, almost like, ig feed.
+  The user if wants to add comment user can add comment.
+*/
 import 'package:flutter/material.dart';
 import 'package:palashassignment/model/photos.dart';
 import 'package:palashassignment/model/user_data.dart';

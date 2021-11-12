@@ -1,3 +1,5 @@
+//This model is used to store the photos as an object
+//As the resposne from json from pexel api is also a photo object
 class Photos{
   String surl;
   String murl;

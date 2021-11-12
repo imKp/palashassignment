@@ -1,3 +1,6 @@
+/*This widget can be used where in a page we require 
+  two widgets to be shared by half of the complete screen
+  */
 import 'package:flutter/material.dart';
 class TwoElement extends StatelessWidget {
 

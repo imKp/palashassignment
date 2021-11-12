@@ -1,4 +1,13 @@
+//This is the third page of the assignment
+//Text to voice comment yet not implemented
 
+/*
+It's composite of two widget
+1. Image in bigger screen.
+2. 
+a. A section to add comment.
+b. A voice to text button(Not implementd yet) 
+*/
 import 'package:flutter/material.dart';
 import 'package:palashassignment/widgets/add_comment.dart';
 import 'package:palashassignment/widgets/big_image.dart';

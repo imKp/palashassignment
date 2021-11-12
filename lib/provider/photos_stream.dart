@@ -1,3 +1,8 @@
+/* 
+Feed on the second page are stream
+The photo stream creation and related are handled in this file
+*/
+
 import 'dart:async';
 
 import 'package:palashassignment/model/photos.dart';

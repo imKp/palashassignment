@@ -1,6 +1,6 @@
 /*
   This page consist of two section 
-  1. Search Bar -> On this page user will put the query to search from pexel.
+  1. Search Bar -> On this section user will put the query to search from pexel.
   2. Recent Search -> A list view where all recent searches are stored.
 */
 

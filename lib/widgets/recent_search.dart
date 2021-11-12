@@ -1,4 +1,8 @@
-//Drawn on page 1
+/*
+  This is the second section of page 1.
+  Here the recent five searches are shown as list.
+  This is deviated from the ui design.
+*/
 import 'package:flutter/material.dart';
 import 'package:palashassignment/model/user_data.dart';
 import 'package:palashassignment/provider/search_list.dart';

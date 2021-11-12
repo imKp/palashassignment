@@ -1,4 +1,9 @@
-//Drawn on page 1
+/*
+   Drawn on page 1
+  The first page search bar section is a complete widget consisting
+   1. A search bar
+   2. A search button
+*/
 import 'package:flutter/material.dart';
 
 import 'package:palashassignment/model/user_data.dart';

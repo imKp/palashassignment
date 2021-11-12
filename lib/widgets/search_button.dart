@@ -1,4 +1,6 @@
 //Drawn on page 1
+//This is a simple button when clicked triggers search.
+//This also calls for insertion of data to local storage.
 import 'package:flutter/material.dart';
 import 'package:palashassignment/model/user_data.dart';
 import 'package:palashassignment/provider/search_list.dart';
